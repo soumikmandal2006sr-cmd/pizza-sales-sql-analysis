@@ -262,9 +262,9 @@ Potential future enhancements for this project:
 
 ### 🔗 Connect With Me
 
-* LinkedIn: [https://linkedin.com/](https://linkedin.com/)
-* GitHub: [https://github.com/](https://github.com/)
-* Email: [your-email@example.com](mailto:your-email@example.com)
+* LinkedIn: https://www.linkedin.com/in/soumik-mandal-9b40a9326/
+* GitHub: https://github.com/soumikmandal2006sr-cmd/pizza-sales-sql-analysis
+* Email: soumikmandal2006sr@gmail.com
 
 📍 West Bengal, India
 
